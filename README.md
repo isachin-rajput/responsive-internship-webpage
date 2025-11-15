@@ -19,7 +19,7 @@ Each card shows duration, mode, skills, and an apply button.
 
 ## 🖼️ Preview
 
-`![Preview](/assets/ cards.png)`
+`![Preview](assets/cards.png)`
 
 ---
 
