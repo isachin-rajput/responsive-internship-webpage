@@ -1,4 +1,4 @@
-# 🎓 Internship Programs Webpage – HTML & CSS
+# 🎓 Internship Webpage – HTML & CSS
 
 A clean and fully responsive Internship Programs page created using **pure HTML and CSS**.  
 This project displays internship cards for:
@@ -13,8 +13,7 @@ Each card shows duration, mode, skills, and an apply button.
 ---
 
 ## 🔗 Live Demo (GitHub Pages)
-👉 **https://your-username.github.io/your-repository-name/**  
-*(Replace with your actual GitHub Pages URL)*
+👉 **https://isachin-rajput.github.io/responsive-internship-webpage/**  
 
 ---
 
@@ -37,10 +36,10 @@ You can upload a screenshot to `/assets/screenshot.png` and then add:
 ---
 
 ## 📁 Project Structure
-/project-folder
+**/project-folder
 ├── index.html
 ├── README.md
-└── assets/
+└── assets/**
 
 
 ---
@@ -62,10 +61,10 @@ You can upload a screenshot to `/assets/screenshot.png` and then add:
 ---
 
 ## 🧑‍💻 Author
-**Your Name**  
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://linkedin.com/in/your-profile  
-- Email: your-email@example.com  
+**Sachin**  
+- GitHub: https://github.com/isachin-rajput  
+- LinkedIn: https://linkedin.com/in/i-sachin  
+- Email: sk07@duck.com  
 
 ---
 
