@@ -18,10 +18,8 @@ Each card shows duration, mode, skills, and an apply button.
 ---
 
 ## 🖼️ Preview
-*(Optional – add screenshot here)*  
-You can upload a screenshot to `/assets/screenshot.png` and then add:
 
-`![Preview](/assets/screenshot.png)`
+`![Preview](/assets/cards.png)`
 
 ---
 
